@@ -2,7 +2,7 @@ package com.example.API.RESTG4.controladores;
 
 import com.example.API.RESTG4.modelos.Paciente;
 import com.example.API.RESTG4.modelos.SignoVital;
-import com.example.API.RESTG4.servicios.PacienteServicio;
+import com.example.API.RESTG4.servicios.PacienteServicios;
 import com.example.API.RESTG4.servicios.SignoVitalServicios;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

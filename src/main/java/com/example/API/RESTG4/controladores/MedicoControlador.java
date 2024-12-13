@@ -5,7 +5,7 @@ import com.example.API.RESTG4.modelos.Medico;
 import com.example.API.RESTG4.modelos.Paciente;
 import com.example.API.RESTG4.servicios.MedicamentoServicios;
 import com.example.API.RESTG4.servicios.MedicoServicios;
-import com.example.API.RESTG4.servicios.PacienteServicio;
+import com.example.API.RESTG4.servicios.PacienteServicios;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
